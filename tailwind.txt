@@ -1,0 +1,6 @@
+Why Use Tailwind Css ?
+
+1) No reinventing of class names required 
+2) You Css doesn't grow with your html and designs 
+3) When you make a change , no risk of breaking exising template
+4) all designs are responsive.

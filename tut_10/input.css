@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+
+.margin{
+    @apply m-4;
+}
+
+@tailwind utilities;
+
+@layer components{
+    .btn{
+        @apply bg-slate-300 font-bold p-[10px] rounded-lg w-[150px];
+    }
+}
